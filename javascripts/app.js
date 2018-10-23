@@ -11,5 +11,5 @@ function turnRight(rover){
 }
 
 function moveForward(rover){
-  console.log("moveForward was called")
+  console.log("moveForward was called ")
 }
